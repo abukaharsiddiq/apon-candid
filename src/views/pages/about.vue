@@ -102,7 +102,7 @@
 
         		 	<div class="col-md-6">
         		 		<div class="facilities-image">
-        		 			<img :src="'./front-end/img/about/header_facilities.jpg'" alt="">
+        		 			<img :src="'@/front-end/img/about/header_facilities.jpg'" alt="">
         		 		</div>
         		 	</div>
 

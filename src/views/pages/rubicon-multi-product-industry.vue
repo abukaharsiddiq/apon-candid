@@ -20,7 +20,7 @@
 		<div class="row">
 			    <div class="col-md-4">
 			    	 <div class="concern-image">
-				 	    <img :src="'./front-end/img/gallery/gallery1.jpg'" alt="">
+				 	    <img :src="'@/front-end/img/gallery/gallery1.jpg'" alt="">
 				     </div>
 			    </div>
 			    <div class="col-md-8">

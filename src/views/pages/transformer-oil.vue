@@ -37,7 +37,7 @@
 
 			<div class="col-md-4">
 				<div class="oil-image">
-					<img :src="'@/front-end/img/gallery/img_transol.jpg'" alt="">
+					<img :src="'front-end/img/gallery/img_transol.jpg'" alt="">
 				</div>
 			</div>
 
@@ -54,7 +54,7 @@
 
 			        <div class="col-md-4">
 				<div class="oil-image">
-					<img :src="'@/front-end/img/gallery/gallery2.jpg'" alt="">
+					<img :src="'front-end/img/gallery/gallery2.jpg'" alt="">
 				</div>
 			</div>
 
@@ -97,7 +97,7 @@
 
 						<div class="col-md-4">
 					        <div class="oil-image">
-						      <img :src="'@/front-end/img/gallery/img_transol.jpg'" alt="">
+						      <img :src="'front-end/img/gallery/img_transol.jpg'" alt="">
 					        </div>
 			            </div>
 			

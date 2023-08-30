@@ -12,7 +12,7 @@
 <ul>
 <li>+8802-4896 3197</li>
 <li>
-	<a href="" class="__cf_email__" data-cfemail="">
+	<a href="" class="__cf_email__">
 	    corporationcandid@gmail.com
     </a>
 </li>
@@ -38,7 +38,7 @@
 
 <div class="col-xl-2 col-lg-2">
 <div class="logo">
-<a href="index.php"><img :src="`front-end/img/logo/Candid Logo.png`" alt></a>
+<a href=""><img :src="'front-end/img/logo/Candid Logo.png'" alt></a>
 </div>
 </div>
 	<div class="col-xl-10 col-lg-10">

@@ -46,11 +46,11 @@
 			<nav>
 				<ul id="navigation">
 					<li><router-link to="/">Home</router-link></li>
-					<li><router-link to="/about">About</router-link></li>
+					<li><router-link to="about">About</router-link></li>
 
 					<li><router-link to="/">Products</router-link>
 						<ul class="submenu">
-							<li><router-link to="/transformer-oil">Transformer Oil</router-link></li>
+							<li><router-link to="transformer-oil">Transformer Oil</router-link></li>
 							<li><a href="">Liquid Paraffin </a></li>
 							<li><a href="">Wood Polish</a></li>
 							<li><a href="">Glycerine </a></li>
@@ -82,22 +82,22 @@
 
 					<li><router-link to="/">Our Concern</router-link>
 						<ul class="submenu">
-							<li><router-link to="/candid-oil-bangladesh-opdc">Candid Oil Bangladesh OPC.</router-link></li>
-							<li><router-link to="/candid-wood-polish-industries">Candid Wood Polish Industries</router-link></li>
-							<li><router-link to="/candid-corporation">Candid Corporation </router-link></li>
-							<li><router-link to="/candid-corporation-bangladesh">Candid Corporation Bangladesh </router-link></li>
-							<li><router-link to="/rubicon-multi-product-industry">Rubicon Multi Product Industry</router-link></li>
-							<li><router-link to="/rubicon-petrolium">Rubicon Petroleum</router-link></li>
-							<li><router-link to="/rubicon-corporation">Rubicon Corporation </router-link></li>
-							<li><router-link to="/rubicon-agri-support">Rubicon AgriSupport </router-link></li>
-							<li><router-link to="/commitment-shipping-line">Commitment Shipping Line </router-link></li>
-							<li><router-link to="/commitment-international">Commitment International </router-link></li>
-							<li><router-link to="/nexus-logistics"> Nexus Logistics</router-link></li>
+							<li><router-link to="candid-oil-bangladesh-opdc">Candid Oil Bangladesh OPC.</router-link></li>
+							<li><router-link to="candid-wood-polish-industries">Candid Wood Polish Industries</router-link></li>
+							<li><router-link to="candid-corporation">Candid Corporation </router-link></li>
+							<li><router-link to="candid-corporation-bangladesh">Candid Corporation Bangladesh </router-link></li>
+							<li><router-link to="rubicon-multi-product-industry">Rubicon Multi Product Industry</router-link></li>
+							<li><router-link to="rubicon-petrolium">Rubicon Petroleum</router-link></li>
+							<li><router-link to="rubicon-corporation">Rubicon Corporation </router-link></li>
+							<li><router-link to="rubicon-agri-support">Rubicon AgriSupport </router-link></li>
+							<li><router-link to="commitment-shipping-line">Commitment Shipping Line </router-link></li>
+							<li><router-link to="commitment-international">Commitment International </router-link></li>
+							<li><router-link to="nexus-logistics"> Nexus Logistics</router-link></li>
 						</ul>
 					</li>
 					
-					<li><router-link to="/career">Careers</router-link></li>
-					<li><router-link to="/contact">Contact</router-link></li>
+					<li><router-link to="career">Careers</router-link></li>
+					<li><router-link to="contact">Contact</router-link></li>
 					<li>
 					<div class="nav-search search-switch">
 					<i class="ti-search"></i>
